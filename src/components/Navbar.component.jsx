@@ -1,7 +1,10 @@
-import React from 'react'
+import React from 'react';
+import Image from '../assets/logo.webp';
 
 export const Navbar = () => {
   return (
-    <div>Navbar</div>
+    <>
+     <img src={Image} alt="logo" />
+    </>
   )
 }
