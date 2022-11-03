@@ -6,20 +6,30 @@
   padding: 0;
 }
 
-
 body {
-  
 }
 
 .logo {
   text-align: center;
-  margin-top: 25px;
+  margin-top: 20px;
 }
+
+.logo_img {
+  display: flex;
+  justify-content: center;
+  height: 63px;
+  // .accesories {
+  //   display: flex;
+  //   align-self: flex-end;
+  //   justify-content: flex-end;
+  // }
+}
+
 
 .nav_links {
   display: flex;
   justify-content: center;
-  gap: 15px;
+  gap: 35px;
   margin-top: 20px;
 }
 
