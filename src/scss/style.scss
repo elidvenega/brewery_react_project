@@ -5,3 +5,25 @@
   margin: 0;
   padding: 0;
 }
+
+
+body {
+  
+}
+
+.logo {
+  text-align: center;
+  margin-top: 25px;
+}
+
+.nav_links {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.nav_links li {
+  list-style: none;
+  font-weight: light;
+}
