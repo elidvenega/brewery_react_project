@@ -20,11 +20,11 @@ body {
   justify-content: center;
   height: 67px;
 }
-
+// scss error
 .accessories {
   align-self: center;
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
   gap: 10px;
   margin-right: 210px;
   position: relative;
